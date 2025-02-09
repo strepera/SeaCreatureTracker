@@ -1,0 +1,8 @@
+{
+  "name": "SeaCreatureTracker",
+  "creator": "snailify",
+  "description": "tracks creatures around you",
+  "version": "0.0.1",
+  "entry": "index.js",
+  "requires": ["locraw", "Krun", "PogData", "Vigilance"]
+}

@@ -1,0 +1,544 @@
+{
+  "Night Squid": {
+    "chat_message": "§aPitch darkness reveals a Night Squid.",
+    "fishing_experience": 270,
+    "rarity": "COMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"5e2ff5d0-7ca5-3d0b-b987-4add5fa9336c\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDg3MDU2MjRkYWEyOTU2YWE0NTk1NmM4MWJhYjVmNGZkYjJjNzRhNTk2MDUxZTI0MTkyMDM5YWVhM2E4YjgifX19\"}]}},display:{Lore:[0:\"§7Night Squid is a rarer variant of the Squid found only\",1:\"§7at night while using Dark Bait. The Night Squid emits\",2:\"§7particles and drops Squid Boots only obtainable\",3:\"§7from the Night Squid.\",4:\"\",5:\"§c❤ Health§8: §c4,000\",6:\"\",7:\"§f§lCOMMON\"],Name:\"§3Night Squid (Sea Creature)\"},ExtraAttributes:{id:\"NIGHT_SQUID_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Agarimoo": {
+    "chat_message": "§aYour Chumcap Bucket trembles, it's an Agarimoo.",
+    "fishing_experience": 80,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"2b9eb675-2097-4b51-8fec-c1a51562f19c\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTE2M2JjNDE2YjhlNjA1OGY5MmIyMzFlOWE1MjRiN2ZlMTE4ZWI2ZTdlZWFiNGFkMTZkMWI1MmEzZWMwNGZjZCJ9fX0=\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c55,000\",1:\"\",2:\"§9§lRARE\"],Name:\"§3Agarimoo (Sea Creature)\"},ExtraAttributes:{id:\"AGARIMOO_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Carrot King": {
+    "chat_message": "§aIs this even a fish? It's the Carrot King!",
+    "fishing_experience": 810,
+    "rarity": "RARE",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{SkullOwner:{Id:\"10a9980c-1ba4-42fc-9f92-96b65a1db4b9\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTE3YmZmYzE5NzJhY2Q3ZjNiNGE4ZjQzYjViNmM3NTM0Njk1YjhmZDYyNjc3ZTAzMDZiMjgzMTU3NGIifX19\"}]}},display:{Lore:[0:\"§7The Carrot King is a Sea Creature that has a\",1:\"§7chance to be caught when the player reaches\",2:\"§7fishing level XV or above, and is using Carrot \",3:\"§7Bait. It has a low spawn rate, and roughly \",4:\"§710,000 EHP. \",5:\"\",6:\"§c❤ Health§8: §c10,000\",7:\"\",8:\"§a§lUNCOMMON\"],Name:\"§3Carrot King (Sea Creature)\"},ExtraAttributes:{id:\"CARROT_KING_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Squid": {
+    "chat_message": "§aA Squid appeared.",
+    "fishing_experience": 41,
+    "rarity": "COMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"5e2ff5d0-7ca5-3d0b-b987-4add5fa9336c\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDg3MDU2MjRkYWEyOTU2YWE0NTk1NmM4MWJhYjVmNGZkYjJjNzRhNTk2MDUxZTI0MTkyMDM5YWVhM2E4YjgifX19\"}]}},display:{Lore:[0:\"§7Squids are a common passive Mob found by\",1:\"§7fishing in The Park \",2:\"\",3:\"§c❤ Health§8: §c2,000\",4:\"\",5:\"§f§lCOMMON\"],Name:\"§3Pond Squid (Sea Creature)\"},ExtraAttributes:{id:\"POND_SQUID_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Sea Walker": {
+    "chat_message": "§aYou caught a Sea Walker.",
+    "fishing_experience": 68,
+    "rarity": "COMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,display:{Lore:[0:\"§7The Sea Walker is a Common sea creature that\",1:\"§7spawns while fishing after unlocking Fishing level II.\",2:\"§7He looks like a normal Zombie, but has a \\\"monster\\\"\",3:\"§7head.\",4:\"\",5:\"§c❤ Health§8: §c1,000\",6:\"\",7:\"§f§lCOMMON\"],Name:\"§3Sea Walker (Sea Creature)\"},ExtraAttributes:{id:\"SEA_WALKER_SC\"}}",
+      "damage": 2
+    }
+  },
+  "Sea Guardian": {
+    "chat_message": "§aYou stumbled upon a Sea Guardian.",
+    "fishing_experience": 101,
+    "rarity": "COMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{SkullOwner:{Id:\"628f15d0-e39c-4fd9-9c4e-8c41d4f54b29\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTBiZjM0YTcxZTc3MTViNmJhNTJkNWRkMWJhZTVjYjg1Zjc3M2RjOWIwZDQ1N2I0YmZjNWY5ZGQzY2M3Yzk0In19fQ==\"}]}},display:{Lore:[0:\"§7The Sea Guardian is a Common sea creature that\",1:\"§7spawns while fishing after unlocking Fishing level\",2:\"§7V. He is small but powerful. \",3:\"\",4:\"§c❤ Health§8: §c5,000\",5:\"\",6:\"§f§lCOMMON\"],Name:\"§3Sea Guardian (Sea Creature)\"},ExtraAttributes:{id:\"SEA_GUARDIAN_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Sea Archer": {
+    "chat_message": "§aYou reeled in a Sea Archer.",
+    "fishing_experience": 169,
+    "rarity": "UNCOMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{display:{Lore:[0:\"§7The Sea Archer is an Uncommon sea creature that\",1:\"§7spawns while fishing after unlocking Fishing level IX.\",2:\"§7He looks like a normal Skeleton, and carries an\",3:\"§7enchanted Bow. He also wears an Enchanted Armor,\",4:\"§7probably a dyed Leather Armor.\",5:\"\",6:\"§c❤ Health§8: §c7,000\",7:\"\",8:\"§a§lUNCOMMON\"],Name:\"§3Sea Archer (Sea Creature)\"},ExtraAttributes:{id:\"SEA_ARCHER_SC\"}}",
+      "damage": 0
+    }
+  },
+  "Rider of the Deep": {
+    "chat_message": "§aThe Rider of the Deep has emerged.",
+    "fishing_experience": 270,
+    "rarity": "UNCOMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"04af20d2-52ff-4339-b01c-459b780f2544\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODI4OGZjYmRhNGZmODVhY2E3ZmYyMTEzM2QxYWZlYzllZTI0NmRkOTIzZWNhOWJmZDA5MmYyMzMzZTY2ZiJ9fX0=\"}]}},display:{Lore:[0:\"§7The Rider of the Deep is a Uncommon Sea\",1:\"§7Creature that can only be fished with a fishing\",2:\"§7skill level of 11 or higher.\",3:\"\",4:\"§c❤ Health§8: §c20,000\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§3Rider of the Deep (Sea Creature)\"},ExtraAttributes:{id:\"RIDER_OF_THE_DEEP_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Sea Witch": {
+    "chat_message": "§aIt looks like you've disrupted the Sea Witch's brewing session. Watch out, she's furious!",
+    "fishing_experience": 338,
+    "rarity": "UNCOMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{SkullOwner:{Id:\"7f92b3d6-5ee0-4ab6-afae-2206b9514a63\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjBlMTNkMTg0NzRmYzk0ZWQ1NWFlYjcwNjk1NjZlNDY4N2Q3NzNkYWMxNmY0YzNmODcyMmZjOTViZjlmMmRmYSJ9fX0==\"}]}},display:{Lore:[0:\"§7The Sea Witch is a sea creature that can be\",1:\"§7spawned by using Light Bait during the daytime.\",2:\"\",3:\"§c❤ Health§8: §c6,000\",4:\"\",5:\"§a§lUNCOMMON\"],Name:\"§3Sea Witch (Sea Creature)\"},ExtraAttributes:{id:\"SEA_WITCH_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Catfish": {
+    "chat_message": "§aHuh? A Catfish!",
+    "fishing_experience": 405,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"664dd492-3fcd-443b-9e61-4c7ebd9e4e10\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTY1N2NkNWMyOTg5ZmY5NzU3MGZlYzRkZGNkYzY5MjZhNjhhMzM5MzI1MGMxYmUxZjBiMTE0YTFkYjEifX19\"}]}},display:{Lore:[0:\"§7The Catfish is a Rare Sea Creature that spawns\",1:\"§7while fishing after reaching Fishing level 13. \",2:\"§7It takes the appearance of an ocelot.\",3:\"\",4:\"§c❤ Health§8: §c26,000\",5:\"\",6:\"§9§lRARE\"],Name:\"§3Catfish (Sea Creature)\"},ExtraAttributes:{id:\"CATFISH_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Sea Leech": {
+    "chat_message": "§aGross! A Sea Leech!",
+    "fishing_experience": 675,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"30a4cd5c-5754-4db8-8960-18022a74627d\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE5MWRhYjgzOTFhZjVmZGE1NGFjZDJjMGIxOGZiZDgxOWI4NjVlMWE4ZjFkNjIzODEzZmE3NjFlOTI0NTQwIn19fQ==\"}]}},display:{Lore:[0:\"§7The Sea Leech is a Sea Creature that is a\",1:\"§7Silverfish and occasionally can be spawned\",2:\"§7during fishing after reaching Fishing Level 16. \",3:\"\",4:\"§c❤ Health§8: §c60,000\",5:\"\",6:\"§9§lRARE\"],Name:\"§3Sea Leech (Sea Creature)\"},ExtraAttributes:{id:\"SEA_LEECH_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Guardian Defender": {
+    "chat_message": "§aYou've discovered a Guardian Defender of the sea.",
+    "fishing_experience": 1013,
+    "rarity": "EPIC",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{SkullOwner:{Id:\"628f15d0-e39c-4fd9-9c4e-8c41d4f54b29\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTBiZjM0YTcxZTc3MTViNmJhNTJkNWRkMWJhZTVjYjg1Zjc3M2RjOWIwZDQ1N2I0YmZjNWY5ZGQzY2M3Yzk0In19fQ==\"}]}},display:{Lore:[0:\"§7The Guardian Defender is a Sea Creature that\",1:\"§7requires fishing level XVII.\",2:\"\",3:\"§c❤ Health§8: §c70,000\",4:\"\",5:\"§5§lEPIC\"],Name:\"§3Guardian Defender (Sea Creature)\"},ExtraAttributes:{id:\"GUARDIAN_DEFENDER_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Deep Sea Protector": {
+    "chat_message": "§aYou have awoken the Deep Sea Protector, prepare for a battle!",
+    "fishing_experience": 2721,
+    "rarity": "EPIC",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"a46a9adf-60a3-38f2-a3dd-335d85f1cc10\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjJiY2FjZWViNDE2MmY0MDBkNDQ3NDMzMTU5MzJhYzgyMGQzMTE5YWM4OTg2YTAxNjFhNzI2MTYxY2NjOTNmYyJ9fX0\"}]}},display:{Lore:[0:\"§7The Deep Sea Protector is a Sea Creature that \",1:\"§7spawns while fishing after unlocking Fishing level\",2:\"§718. It takes the appearance of an iron golem. \",3:\"\",4:\"§c❤ Health§8: §c150,000\",5:\"\",6:\"§5§lEPIC\"],Name:\"§3Deep Sea Protector (Sea Creature)\"},ExtraAttributes:{id:\"DEEP_SEA_PROTECTOR_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Water Hydra": {
+    "chat_message": "§aThe Water Hydra has come to test your strength.",
+    "fishing_experience": 4050,
+    "rarity": "LEGENDARY",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"33f37f6f-40aa-3fc0-bcf7-b2635f3f66d0\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjFmZmJkYTkyNDQyODczZDU0MDUxZTRlMTdlYTQ3Mjc4Y2IzYjc0N2Q3OTgwNzBiYTgzYmM0YTlkZTU4ZGQifX19\"}]}},display:{Lore:[0:\"§7Water Hydra is a Legendary Sea Creature that spawns\",1:\"§7while fishing after unlocking it at Fishing Level XIX (19).\",2:\"§7It is a zombie with the head of a sea dragon and blue\",3:\"§7dyed leather armor. \",4:\"\",5:\"§c❤ Health§8: §c500,000\",6:\"\",7:\"§6§lLEGENDARY\"],Name:\"§3Water Hydra (Sea Creature)\"},ExtraAttributes:{id:\"WATER_HYDRA_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Sea Emperor": {
+    "chat_message": "§aThe Sea Emperor arises from the depths.",
+    "fishing_experience": 3375,
+    "rarity": "LEGENDARY",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"b6bdd479-20ef-5967-aeea-2b948d81b7e1\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMDQ0YjY1M2JiYjcyN2I1Yzg2NWE4ZWZjNzUwOTJhZmU5MzllMmMzZTY4NjEzZGI5YWJhZTRmMWI2NGY5OWY4In19fQ==\"}]}},display:{Lore:[0:\"§7The Sea Emperor is a Sea Creature that can\",1:\"§7appear while fishing once a player's fishing\",2:\"§7level is 20 or higher. \",3:\"\",4:\"§c❤ Health§8: §c750,000\",5:\"\",6:\"§6§lLEGENDARY\"],Name:\"§3Sea Emperor (Sea Creature)\"},ExtraAttributes:{id:\"SEA_EMPEROR_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Frozen Steve": {
+    "chat_message": "§aFrozen Steve fell into the pond long ago, never to §r§aresurface...until§r§a now!",
+    "fishing_experience": 101,
+    "rarity": "COMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"0a449771-7d30-43bc-9db3-3f0a8db7d833\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjA2OTFjOTljNDU1NTE3ZGVkMzdiZjM5ODA2MjI2MzYyZDdjZTYxMjVhMDRiZTcwZWM2ODNiM2M4YTI1ZmUyNCJ9fX0=\"}]}},display:{Lore:[0:\"§7The Frozen Steve is a Common Sea Creature that\",1:\"§7can only be fished up from the Jerry Pond and\",2:\"§7requires Fishing IV. \",3:\"\",4:\"§c❤ Health§8: §c700\",5:\"\",6:\"§f§lCOMMON\"],Name:\"§3Frozen Steve (Sea Creature)\"},ExtraAttributes:{id:\"FROZEN_STEVE_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Frosty": {
+    "chat_message": "§aIt's a snowman! He looks harmless.",
+    "fishing_experience": 203,
+    "rarity": "COMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"6dbe7d9f-0c7c-4301-b0f4-649b26660917\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTExMzY2MTZkOGM0YTg3YTU0Y2U3OGE5N2I1NTE2MTBjMmIyYzhmNmQ0MTBiYzM4Yjg1OGY5NzRiMTEzYjIwOCJ9fX0=\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c10\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§3Frosty (Sea Creature)\"},ExtraAttributes:{id:\"FROSTY_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Grinch": {
+    "chat_message": "§aThe Grinch stole Jerry's §r§aGifts...get§r§a them back!",
+    "fishing_experience": 405,
+    "rarity": "UNCOMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"1f891d62-66c0-45dd-82a4-44669aeb19fa\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTljODlhODg5YzRiYjQyMWVhOWM1NmNiZWFlN2FmMWU2ZDg1ZjRmYWZmMzRhY2JhNzJlMWE4ZDVjNDExNmE4In19fQ==\"}]}},display:{Lore:[0:\"§7The Grinch is a Sea Creature that can only be fished up from the Jerry Pond. \",1:\"§7It is very fast, and tries to throw itself in to the Void. \",2:\"§7It takes only §c1❤ §7each hit and drops 1 Gift every time it is damaged.\",3:\"\",4:\"§c❤ Health§8: §c10\",5:\"\",6:\"§a§lUNCOMMON\"],Name:\"§3Grinch (Sea Creature)\"},ExtraAttributes:{id:\"GRINCH_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Nutcracker": {
+    "chat_message": "§aYou found a forgotten Nutcracker laying beneath the ice.",
+    "fishing_experience": 950,
+    "rarity": "LEGENDARY",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"b11f27af-d60d-37b3-b4d8-cf51dc5843df\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzI0MDdlNjZjODFiMTQ0M2MyZTdkZmM0ZDY1ODNlYjE5YzYyMmZhMjJmMzRmYmY5OWZlNmM0NWY3NmEifX19\"}]}},display:{Lore:[0:\"§7The Nutcracker is a Sea Creature that\",1:\"§7requires fishing level XXVIII and can exclusively\",2:\"§7be fished up on the Jerry's Workshop.\",3:\"\",4:\"§c❤ Health§8: §c4,000,000\"],Name:\"§3Nutcracker (Sea Creature)\"},ExtraAttributes:{id:\"NUTCRACKER_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Yeti": {
+    "chat_message": "§aWhat is this creature!?",
+    "fishing_experience": 4050,
+    "rarity": "LEGENDARY",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"0f7e2dc4-3319-41d6-85dc-cc7a9bae89bb\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWIxMjY4MTRmYzNmYTg0NmRhZDkzNGMzNDk2MjhhN2ExZGU1YjQxNTAyMWEwM2VmNDIxMWQ2MjUxNGQ1In19fQ\"}]}},display:{Lore:[0:\"§7The Yeti is a Legendary mob unlocked from Fishing\",1:\"§7level 25. It can only be fished at Jerry Pond.\",2:\"§7It uses a similar ability to the \\\"Terrain Toss\\\" ability\",3:\"§7of the Yeti Sword.\",4:\"\",5:\"§c❤ Health§8: §c2,000,000\",6:\"\",7:\"§6§lLEGENDARY\"],Name:\"§3Yeti (Sea Creature)\"},ExtraAttributes:{id:\"YETI_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Reindrake": {
+    "chat_message": "§aA Reindrake forms from the depths.",
+    "fishing_experience": 0,
+    "rarity": "LEGENDARY",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"80b9ea26-3dc8-3346-bf7d-76b069a70e99\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY3MTc2MzUyNTg5OCwKICAicHJvZmlsZUlkIiA6ICI4MTc1MTc4NzQ2MjE0NmY2YjllOWM3MTYyMWRiODQwZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFwcGVhcmFuY2UiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzBiZWI0YzdmNWY4ZDE0YmUzYTA0ZjZmYTM1NzNmYThiZDU5ZWEyMjM2YjY2ZjA1ZmJhNTdjNjc4Y2EzNzc3NiIKICAgIH0KICB9Cn0\"}]}},display:{Lore:[0:\"§7The Reindrake is a Legendary mob unlocked from Fishing\",1:\"§7level 35. It can only be fished on the Jerry Island.\",2:\"\",3:\"§c❤ Health§8: §c2,500 (hits)\",4:\"\",5:\"§6§lLEGENDARY\"],Name:\"§3Reindrake (Sea Creature)\"},ExtraAttributes:{id:\"REINDRAKE_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Scarecrow": {
+    "chat_message": "§aPhew! It's only a Scarecrow.",
+    "fishing_experience": 420,
+    "rarity": "COMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{display:{Lore:[0:\"§7The Scarecrow is a common sea creature added in the Spooky\",1:\"§7Festival v2 update. It can only be caught from 1 hour before\",2:\"§7until 1 hour after the Spooky Festival by those above Fishing 9\",3:\"\",4:\"§c❤ Health§8: §c4,500\",5:\"\",6:\"§f§lCOMMON\"],Name:\"§3Scarecrow (Sea Creature)\"},ExtraAttributes:{id:\"SCARECROW_SC\"}}",
+      "damage": 2
+    }
+  },
+  "Nightmare": {
+    "chat_message": "§aYou hear trotting from beneath the waves, you caught a Nightmare.",
+    "fishing_experience": 820,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"ab9ea02c-4fd1-4895-85c9-d2b407d5d6f2\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDIyOTUwZjJkM2VmZGRiMThkZTg2ZjhmNTVhYzUxOGRjZTczZjEyYTZlMGY4NjM2ZDU1MWQ4ZWI0ODBjZWVjIn19fQ==\"}]}},display:{Lore:[0:\"§7The Nightmare is a rare sea creature added in the Spooky\",1:\"§7Festival v2 update. It can only be caught from 1 hour before\",2:\"§7until 1 hour after the Spooky Festival by those above Fishing 14\",3:\"\",4:\"§c❤ Health§8: §c35,000\",5:\"\",6:\"§9§lRARE\"],Name:\"§3Nightmare (Sea Creature)\"},ExtraAttributes:{id:\"NIGHTMARE_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Werewolf": {
+    "chat_message": "§aIt must be a full moon, a Werewolf appears.",
+    "fishing_experience": 1235,
+    "rarity": "EPIC",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"c8e41e94-9c30-38af-80c6-05b2ed6d5c53\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYwMzY2ODk3MjkwMywKICAicHJvZmlsZUlkIiA6ICIzYTNmNzhkZmExZjQ0OTllYjE5NjlmYzlkOTEwZGYwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVyb2Ryb2dvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NlNDYwNmM2ZDk3M2E5OTlhZWMxNjg3YzdlMDc1ZjdkMzdkYjgxODVlODhiODQ0NTA3ZjE2YjNlMmIzZWI2OTAiCiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§7The Werewolf is an epic sea creature added in the Spooky\",1:\"§7Festival v2 update. It can only be caught from 1 hour before\",2:\"§7until 1 hour after the Spooky Festival by those above Fishing 17\",3:\"\",4:\"§c❤ Health§8: §c50,000\",5:\"\",6:\"§5§lEPIC\"],Name:\"§3Werewolf (Sea Creature)\"},ExtraAttributes:{id:\"WEREWOLF_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Phantom Fisher": {
+    "chat_message": "§aThe spirit of a long lost Phantom Fisher has come to haunt you.",
+    "fishing_experience": 2525,
+    "rarity": "LEGENDARY",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"50390032-cb42-3e3f-9039-0032cb428e3f\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmM5YmMwMWYyOTlmOThkNTY1YTI3YmExMGExMjkzOTE1YWU4YmVlZWZiOGE2Nzg0NWUyMzMxZGJlNmZkNmZkNiJ9fX0\"}]}},display:{Lore:[0:\"§7The Phantom Fisher is a legendary sea creature added in the Spooky\",1:\"§7Festival v2 update. It can only be caught from 1 hour before\",2:\"§7until 1 hour after the Spooky Festival by those above Fishing 21\",3:\"\",4:\"§c❤ Health§8: §c1,000,000\",5:\"\",6:\"§6§lLEGENDARY\"],Name:\"§3Phantom Fisherman (Sea Creature)\"},ExtraAttributes:{id:\"PHANTOM_FISHER_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Grim Reaper": {
+    "chat_message": "§aThis can't be! The manifestation of death himself!",
+    "fishing_experience": 3950,
+    "rarity": "LEGENDARY",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"ad3bca75-a33c-36ec-ad3b-ca75a33c26ec\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjhhNjE5NGE1YjIxN2I5ZjVhM2RmZWNjZTVmM2VmZTY5Njc0MDUwMzliODJmYTBjNGU4OTU5MTc1ZjMyZTc1YSJ9fX0\"}]}},display:{Lore:[0:\"§7The Grim Reaper is a legendary sea creature added in the Spooky\",1:\"§7Festival v2 update. It can only be caught from 1 hour before\",2:\"§7until 1 hour after the Spooky Festival by those above Fishing 26\",3:\"\",4:\"§c❤ Health§8: §c3,000,000\",5:\"\",6:\"§6§lLEGENDARY\"],Name:\"§3Grim Reaper (Sea Creature)\"},ExtraAttributes:{id:\"GRIM_REAPER_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Nurse Shark": {
+    "chat_message": "§aA tiny fin emerges from the water, you've caught a Nurse Shark.",
+    "fishing_experience": 405,
+    "rarity": "COMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"8945bd10-8760-3922-8945-bd1087607922\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjA2N2NjZWZiYTVkODExZjQ3ZTNlMTg0Mzg1NTZiNzA0MzkzYWFmY2FmY2NlZGQ1ZDA5ODE5OTkyODZmNTk4YSJ9fX0\"}]}},display:{Lore:[0:\"§7The Nurse Shark is one of 4 sharks added in the fishing aspect of the\",1:\"§7community center update. It can be caught during fishing festivals\",2:\"§7while Marina is mayor by those of at least Fishing Level 5.\",3:\"\",4:\"§c❤ Health§8: §c2,500\",5:\"\",6:\"§c§lSPECIAL\"],Name:\"§3Nurse Shark (Sea Creature)\"},ExtraAttributes:{id:\"NURSE_SHARK_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Blue Shark": {
+    "chat_message": "§aYou spot a fin as blue as the water it came from, it's a Blue Shark.",
+    "fishing_experience": 810,
+    "rarity": "UNCOMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"c6e8f0dc-1966-3c37-86e8-f0dc19661c37\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzgxZTFkMDZlNWYwNjU0YTY4MmEzMjY0OTA1YjVkYzRiOGU3YjYxM2FiNjY5N2FjNDVmMmUwZGEzYmM5YjRmZCJ9fX0\"}]}},display:{Lore:[0:\"§7The Blue Shark is one of 4 sharks added in the fishing aspect of the\",1:\"§7community center update. It can be caught during fishing festivals\",2:\"§7while Marina is mayor by those of at least Fishing Level 10.\",3:\"\",4:\"§c❤ Health§8: §c25,000\",5:\"\",6:\"§c§lSPECIAL\"],Name:\"§3Blue Shark (Sea Creature)\"},ExtraAttributes:{id:\"BLUE_SHARK_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Tiger Shark": {
+    "chat_message": "§aA striped beast bounds from the depths, the wild Tiger Shark!",
+    "fishing_experience": 1013,
+    "rarity": "EPIC",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"9759a0b6-2a7f-4265-8271-e5dd183e0fb4\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTk0YWU0MzNiMzAxYzdmYjdjNjhjYmE2MjViMGJkMzZiMGIxNDE5MGYyMGUzNGE3YzhlZTBkOWRlMDZkNTNiOSJ9fX0===\"}]}},display:{Lore:[0:\"§7The Tiger Shark is one of 4 sharks added in the fishing aspect of the\",1:\"§7community center update. It can be caught during fishing festivals\",2:\"§7while Marina is mayor by those of at least Fishing Level 18.\",3:\"\",4:\"§c❤ Health§8: §c250,000\",5:\"\",6:\"§c§lSPECIAL\"],Name:\"§3Tiger Shark (Sea Creature)\"},ExtraAttributes:{id:\"TIGER_SHARK_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Great White Shark": {
+    "chat_message": "§aHide no longer, a Great White Shark has tracked your scent and thirsts for your blood!",
+    "fishing_experience": 2025,
+    "rarity": "LEGENDARY",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"27b73cfa-c464-3eec-a7b7-3cfac4641eec\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzdlYjEyMTAyYjcxNmU2Y2ZkNWIzMWY2ZDhkNjE1YTE0MDQxOTg3MzYyNmEwZjM2MDk1N2UyZjUwN2IifX19\"}]}},display:{Lore:[0:\"§7The Great White Shark is one of 4 sharks added in the fishing aspect of the\",1:\"§7community center update. It can be caught during fishing festivals\",2:\"§7while Marina is mayor by those of at least Fishing Level 24.\",3:\"\",4:\"§c❤ Health§8: §c1,500,000\",5:\"\",6:\"§c§lSPECIAL\"],Name:\"§3Great White Shark (Sea Creature)\"},ExtraAttributes:{id:\"GREAT_WHITE_SHARK_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Oasis Sheep": {
+    "chat_message": "§aAn Oasis Sheep appears from the water.",
+    "fishing_experience": 0,
+    "rarity": "UNCOMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{SkullOwner:{Id:\"fa234925-9dbe-4b8f-a544-7c70fb6b6ac5\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjMxZjljY2M2YjNlMzJlY2YxM2I4YTExYWMyOWNkMzNkMThjOTVmYzczZGI4YTY2YzVkNjU3Y2NiOGJlNzAifX19\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c10,000\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§3Oasis Sheep (Sea Creature)\"},ExtraAttributes:{id:\"OASIS_SHEEP_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Oasis Rabbit": {
+    "chat_message": "§aAn Oasis Rabbit appears from the water.",
+    "fishing_experience": 0,
+    "rarity": "UNCOMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{SkullOwner:{Id:\"caeacf99-0d47-454a-9849-3d2b85b135ac\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2QyNzE5MjcxYzcxNDk4MDIyNmZmMWJlZjRjYmIxZDU0NDExY2UzYTkxNGQ3ZGY3MzFiY2M3ZjYxZTk0ZTVjIn19fQ\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c10,000\",1:\"\",2:\"§a§lUNCOMMON\"],Name:\"§3Oasis Rabbit (Sea Creature)\"},ExtraAttributes:{id:\"OASIS_RABBIT_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Small Mithril Grubber": {
+    "chat_message": "§aA leech of the mines surfaces... you've caught a Mithril Grubber.",
+    "fishing_experience": 245,
+    "rarity": "UNCOMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"30a4cd5c-5754-4db8-8960-18022a74627d\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE5MWRhYjgzOTFhZjVmZGE1NGFjZDJjMGIxOGZiZDgxOWI4NjVlMWE4ZjFkNjIzODEzZmE3NjFlOTI0NTQwIn19fQ==\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c6,000 - 15,000\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§3Mithril Grubber (Sea Creature)\"},ExtraAttributes:{id:\"MITHRIL_GRUBBER_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Medium Mithril Grubber": {
+    "chat_message": "§aA leech of the mines surfaces... you've caught a Medium Mithril Grubber.",
+    "fishing_experience": 245,
+    "rarity": "UNCOMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"30a4cd5c-5754-4db8-8960-18022a74627d\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE5MWRhYjgzOTFhZjVmZGE1NGFjZDJjMGIxOGZiZDgxOWI4NjVlMWE4ZjFkNjIzODEzZmE3NjFlOTI0NTQwIn19fQ==\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c6,000 - 15,000\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§3Mithril Grubber (Sea Creature)\"},ExtraAttributes:{id:\"MITHRIL_GRUBBER_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Large Mithril Grubber": {
+    "chat_message": "§aA leech of the mines surfaces... you've caught a Large Mithril Grubber.",
+    "fishing_experience": 245,
+    "rarity": "UNCOMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"30a4cd5c-5754-4db8-8960-18022a74627d\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE5MWRhYjgzOTFhZjVmZGE1NGFjZDJjMGIxOGZiZDgxOWI4NjVlMWE4ZjFkNjIzODEzZmE3NjFlOTI0NTQwIn19fQ==\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c6,000 - 15,000\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§3Mithril Grubber (Sea Creature)\"},ExtraAttributes:{id:\"MITHRIL_GRUBBER_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Bloated Mithril Grubber": {
+    "chat_message": "§aA leech of the mines surfaces... you've caught a Bloated Mithril Grubber.",
+    "fishing_experience": 245,
+    "rarity": "UNCOMMON",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"30a4cd5c-5754-4db8-8960-18022a74627d\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE5MWRhYjgzOTFhZjVmZGE1NGFjZDJjMGIxOGZiZDgxOWI4NjVlMWE4ZjFkNjIzODEzZmE3NjFlOTI0NTQwIn19fQ==\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c6,000 - 15,000\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§3Mithril Grubber (Sea Creature)\"},ExtraAttributes:{id:\"MITHRIL_GRUBBER_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Lava Blaze": {
+    "chat_message": "§aA Lava Blaze has surfaced from the depths!",
+    "fishing_experience": 548,
+    "rarity": "EPIC",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"118fe834-28aa-3b0d-afe6-f0c52d01afe8\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c400,000\",1:\"\",2:\"§5§lEPIC\"],Name:\"§3Lava Blaze (Sea Creature)\"},ExtraAttributes:{id:\"LAVA_BLAZE_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Lava Pigman": {
+    "chat_message": "§aA Lava Pigman arose from the depths!",
+    "fishing_experience": 568,
+    "rarity": "EPIC",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"3fc29372-e78e-3ad6-b0b0-05ca0a84babd\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzRlOWM2ZTk4NTgyZmZkOGZmOGZlYjMzMjJjZDE4NDljNDNmYjE2YjE1OGFiYjExY2E3YjQyZWRhNzc0M2ViIn19fQ\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c450,000\",1:\"\",2:\"§5§lEPIC\"],Name:\"§3Lava Pigman (Sea Creature)\"},ExtraAttributes:{id:\"LAVA_PIGMAN_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Flaming Worm": {
+    "chat_message": "§aA Flaming Worm surfaces from the depths!",
+    "fishing_experience": 240,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"30a4cd5c-5754-4db8-8960-18022a74627d\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE5MWRhYjgzOTFhZjVmZGE1NGFjZDJjMGIxOGZiZDgxOWI4NjVlMWE4ZjFkNjIzODEzZmE3NjFlOTI0NTQwIn19fQ==\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c100,000\",1:\"\",2:\"§9§lRARE\"],Name:\"§3Flaming Worm (Sea Creature)\"},ExtraAttributes:{id:\"FLAMING_WORM_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Water Worm": {
+    "chat_message": "§aA Water Worm surfaces!",
+    "fishing_experience": 240,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"30a4cd5c-5754-4db8-8960-18022a74627d\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGE5MWRhYjgzOTFhZjVmZGE1NGFjZDJjMGIxOGZiZDgxOWI4NjVlMWE4ZjFkNjIzODEzZmE3NjFlOTI0NTQwIn19fQ==\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c50,000\",1:\"\",2:\"§9§lRARE\"],Name:\"§3Water Worm (Sea Creature)\"},ExtraAttributes:{id:\"WATER_WORM_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Poisoned Water Worm": {
+    "chat_message": "§aA Poisoned Water Worm surfaces!",
+    "fishing_experience": 270,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"a1f64509-9670-320a-a9bd-4a1e7df6fed9\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWExYTA4MzFhYTAzYWZiNDIxMmFkY2JiMjRlNWRmYWE3ZjQ3NmExMTczZmNlMjU5ZWY3NWE4NTg1NSJ9fX0=\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c75,000\",1:\"\",2:\"§9§lRARE\"],Name:\"§3Poisoned Water Worm (Sea Creature)\"},ExtraAttributes:{id:\"POISONED_WATER_WORM_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Abyssal Miner": {
+    "chat_message": "§aAn Abyssal Miner breaks out of the water!",
+    "fishing_experience": 770,
+    "rarity": "LEGENDARY",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"27d4a35c-d53b-374b-b56c-57f99c53bdbb\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTYyMDM0NDMxMzcxNCwKICAicHJvZmlsZUlkIiA6ICI0NWY3YTJlNjE3ODE0YjJjODAwODM5MmRmN2IzNWY0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSnVzdERvSXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNThiZTA1Y2ZhZTJjNmE3ZDQ3ZGEyY2U4OGIzZTAwYzcyYTE0NWNjMzIxOGYwNDFiM2RkNWJkNWZhNWNhODI3IgogICAgfQogIH0KfQ==\"}]},Name:\"8b9afe00-12b8-2184-89a9-6aed27075943\"},display:{Lore:[0:\"§c❤ Health§8: §c2,000,000\",1:\"\",2:\"§6§lLEGENDARY\"],Name:\"§3Abyssal Miner (Sea Creature)\"},ExtraAttributes:{id:\"ZOMBIE_MINER_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Moogma": {
+    "chat_message": "§aYou hear a faint Moo from the lava... A Moogma appears.",
+    "fishing_experience": 950,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"2b9eb675-2097-4b51-8fec-c1a51562f19c\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTE2M2JjNDE2YjhlNjA1OGY5MmIyMzFlOWE1MjRiN2ZlMTE4ZWI2ZTdlZWFiNGFkMTZkMWI1MmEzZWMwNGZjZCJ9fX0=\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c750,000\",1:\"\",2:\"§9§lRARE\"],Name:\"§3Moogma (Sea Creature)\"},ExtraAttributes:{id:\"MOOGMA_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Magma Slug": {
+    "chat_message": "§aFrom beneath the lava appears a Magma Slug.",
+    "fishing_experience": 730,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"35f02923-7bec-3869-9ef5-b42a4794cac8\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzg5NTdkNTAyM2M5MzdjNGM0MWFhMjQxMmQ0MzQxMGJkYTIzY2Y3OWE5ZjZhYjM2Yjc2ZmVmMmQ3YzQyOSJ9fX0\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c500,000\",1:\"\",2:\"§9§lRARE\"],Name:\"§3Magma Slug (Sea Creature)\"},ExtraAttributes:{id:\"MAGMA_SLUG_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Pyroclastic Worm": {
+    "chat_message": "§aYou feel the heat radiating as a Pyroclastic Worm surfaces.",
+    "fishing_experience": 1100,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"35f02923-7bec-3869-9ef5-b42a4794cac8\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzg5NTdkNTAyM2M5MzdjNGM0MWFhMjQxMmQ0MzQxMGJkYTIzY2Y3OWE5ZjZhYjM2Yjc2ZmVmMmQ3YzQyOSJ9fX0\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c1.200,000\",1:\"\",2:\"§9§lRARE\"],Name:\"§3Pyroclastic Worm (Sea Creature)\"},ExtraAttributes:{id:\"PYROCLASTIC_WORM_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Lava Flame": {
+    "chat_message": "§aA Lava Flame flies out from beneath the lava.",
+    "fishing_experience": 2100,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"118fe834-28aa-3b0d-afe6-f0c52d01afe8\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjc4ZWYyZTRjZjJjNDFhMmQxNGJmZGU5Y2FmZjEwMjE5ZjViMWJmNWIzNWE0OWViNTFjNjQ2Nzg4MmNiNWYwIn19fQ\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c1,500,000\",1:\"\",2:\"§5§lEPIC\"],Name:\"§3Lava Flame (Sea Creature)\"},ExtraAttributes:{id:\"LAVA_FLAME_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Fire Eel": {
+    "chat_message": "§aA Fire Eel slithers out from the depths.",
+    "fishing_experience": 2200,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"23d6aba2-9fc8-5ffd-8b15-2378a417573c\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzg0ODQ2OTJhMmNkNGVlNWQxOTUxNDU1NWQwOGVjYzcyZWVmNDNjNDdiNDAxOGY0NzJmNTY4YTFjYWE5NmEwMCJ9fX0=\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c2,000,000\",1:\"\",2:\"§9§lRARE\"],Name:\"§3Fire Eel (Sea Creature)\"},ExtraAttributes:{id:\"FIRE_EEL_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Lava Leech": {
+    "chat_message": "§aA small but fearsome Lava Leech emerges.",
+    "fishing_experience": 1400,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"a1f64509-9670-320a-a9bd-4a1e7df6fed9\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWExYTA4MzFhYTAzYWZiNDIxMmFkY2JiMjRlNWRmYWE3ZjQ3NmExMTczZmNlMjU5ZWY3NWE4NTg1NSJ9fX0=\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c1,000,000\",1:\"\",2:\"§9§lRARE\"],Name:\"§3Lava Leech (Sea Creature)\"},ExtraAttributes:{id:\"LAVA_LEECH_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Taurus": {
+    "chat_message": "§aTaurus and his steed emerge.",
+    "fishing_experience": 4300,
+    "rarity": "EPIC",
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"9c05f884-b787-5e49-82e4-018a04725c0f\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY0MmEwNmNkNzVlZjMwN2MxOTEzYmE3YTIyNGZiMjA4MmQ4YTJjNTI1NGZkMWJmMDA2MTI1YTA4N2E5YTg2OCJ9fX0=\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c3,000,000\",1:\"\",2:\"§9§lRARE\"],Name:\"§3Taurus (Sea Creature)\"},ExtraAttributes:{id:\"TAURUS_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Thunder": {
+    "chat_message": "§c§lYou hear a massive rumble as Thunder emerges.",
+    "fishing_experience": 12000,
+    "rarity": "MYTHIC",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{SkullOwner:{Id:\"628f15d0-e39c-4fd9-9c4e-8c41d4f54b29\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTBiZjM0YTcxZTc3MTViNmJhNTJkNWRkMWJhZTVjYjg1Zjc3M2RjOWIwZDQ1N2I0YmZjNWY5ZGQzY2M3Yzk0In19fQ==\"}]}},display:{Lore:[0:\"§7The Thunder is a Sea Creature that\",1:\"§7requires fishing level XXXVI and can exclusively\",2:\"§7be fished up on the Crimson Isle.\",3:\"\",4:\"§c❤ Health§8: §c35,000,000\",5:\"\",6:\"§d§lMYTHIC\"],Name:\"§3Thunder (Sea Creature)\"},ExtraAttributes:{id:\"THUNDER_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Lord Jawbus": {
+    "chat_message": "§c§lYou have angered a legendary creature... Lord Jawbus has arrived.",
+    "fishing_experience": 40000,
+    "rarity": "MYTHIC",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"a46a9adf-60a3-38f2-a3dd-335d85f1cc10\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjJiY2FjZWViNDE2MmY0MDBkNDQ3NDMzMTU5MzJhYzgyMGQzMTE5YWM4OTg2YTAxNjFhNzI2MTYxY2NjOTNmYyJ9fX0\"}]}},display:{Lore:[0:\"§7The Lord Jawbus is a Sea Creature that \",1:\"§7spawns while fishing after unlocking Fishing level\",2:\"§745. It takes the appearance of an iron golem. \",3:\"§7It can be fished up exclusively on the Crimson Isle.\",4:\"\",5:\"§c❤ Health§8: §c100,000,000\",6:\"\",7:\"§d§lMYTHIC\"],Name:\"§3Lord Jawbus (Sea Creature)\"},ExtraAttributes:{id:\"LORD_JAWBUS_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Plhlegblast": {
+    "chat_message": "§aWOAH! A Plhlegblast appeared.",
+    "fishing_experience": 5000,
+    "rarity": "COMMON",
+    "rare": true,
+    "item": {
+      "itemid": "minecraft:skull",
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"5e2ff5d0-7ca5-3d0b-b987-4add5fa9336c\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDg3MDU2MjRkYWEyOTU2YWE0NTk1NmM4MWJhYjVmNGZkYjJjNzRhNTk2MDUxZTI0MTkyMDM5YWVhM2E4YjgifX19\"}]}},display:{Lore:[0:\"§7The Plhlegblast is a type of Sea Creature\",1:\"§7which can be fished up in the\",2:\"§7Plhlegblast Pool in the Crimson Isle.\",3:\"\",4:\"§c❤ Health§8: §c500,000,000\",5:\"\",6:\"§f§lCOMMON\"],Name:\"§3Plhlegblast (Sea Creature)\"},ExtraAttributes:{id:\"PLHLEGBLAST_SC\"}}",
+      "damage": 3
+    }
+  },
+  "Baby Magma Slug": {
+    "fishing_experience": 0,
+    "rarity": "RARE",
+    "item": {
+      "itemid": "minecraft:skull",
+      "damage": 3,
+      "nbttag": "{HideFlags:254,SkullOwner:{Id:\"35f02923-7bec-3869-9ef5-b42a4794cac8\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzg5NTdkNTAyM2M5MzdjNGM0MWFhMjQxMmQ0MzQxMGJkYTIzY2Y3OWE5ZjZhYjM2Yjc2ZmVmMmQ3YzQyOSJ9fX0\"}]}},display:{Lore:[0:\"§c❤ Health§8: §c500,000\",1:\"\",2:\"§9§lRARE\"],Name:\"§3Magma Slug (Sea Creature)\"},ExtraAttributes:{id:\"MAGMA_SLUG_SC\"}}"
+    }
+  }
+}
